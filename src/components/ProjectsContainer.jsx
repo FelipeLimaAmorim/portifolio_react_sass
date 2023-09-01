@@ -7,7 +7,7 @@ const ProjectsContainer = () => {
         feito com React e Sass, e um site chamado Projeto X-Men criado com HTML, css e Js.
         Esta postado em meu github.
         </p>
-        <a href="#" className="btn">
+        <a href="https://github.com/FelipeLimaAmorim?tab=repositories" className="btn">
           Ver Projetos
         </a>
       </section>
